@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 I'm Nishan Khanal
 
-<!--
-**nikhanal/nikhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer and AI enthusiast with a strong background in HTML, CSS, React, Express, and Python. I love building user-friendly and interactive web applications while exploring the fascinating world of artificial intelligence.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Data Science and Machine Learning:** Python, Pandas, Geopandas
+- **Version Control:** Git, GitHub
+- **Other Technologies:** RESTful APIs, JSON, AJAX, Responsive Design
+
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/nishan-khanal-01bb79143/
+- Email: khanal.nishan28@gmail.com
+- Portfolio: https://khanalnishan.com.np/
+
+Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
+
+Let's create amazing things together! 🚀
