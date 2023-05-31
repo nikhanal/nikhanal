@@ -5,8 +5,8 @@ I'm a passionate web developer and AI enthusiast with a strong background in HTM
 ## 🚀 Skills
 
 - **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
+- **Back-end:** Node.js, Express.js [Beginner]
+- **Database:** MongoDB, MySQL [Beginner]
 - **Data Science and Machine Learning:** Python, Pandas, Geopandas
 - **Version Control:** Git, GitHub
 - **Other Technologies:** RESTful APIs, JSON, AJAX, Responsive Design
