@@ -18,8 +18,7 @@ I'm a passionate web developer and AI enthusiast with a strong background in HTM
 - Email: khanal.nishan28@gmail.com
 - Portfolio: https://khanalnishan.com.np/
 
-<!-- “Most‑used language” badge for a specific repo -->
-![Most Used Language](https://img.shields.io/github/languages/top/nikhanal/YOUR‑REPO?style=flat-square)
-<!-- GitHub stats -->
+## Github Stats
 ![Nikhanal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhanal&show_icons=true&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhanal&layout=normal&theme=github_dark)
 
