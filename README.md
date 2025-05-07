@@ -20,4 +20,6 @@ I'm a passionate web developer and AI enthusiast with a strong background in HTM
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nikhanal=nikhanal&show_icons=true&count_private=true&hide_title=true)
+<!-- GitHub stats -->
+![Nikhanal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhanal&show_icons=true&count_private=true&hide_title=true)
+
