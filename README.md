@@ -18,6 +18,6 @@ I'm a passionate web developer and AI enthusiast with a strong background in HTM
 - Email: khanal.nishan28@gmail.com
 - Portfolio: https://khanalnishan.com.np/
 
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
-Let's create amazing things together! 🚀
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nikhanal=nikhanal&show_icons=true&count_private=true&hide_title=true)
