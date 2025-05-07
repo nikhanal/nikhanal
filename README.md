@@ -20,5 +20,4 @@ I'm a passionate web developer and AI enthusiast with a strong background in HTM
 
 ## Github Stats
 ![Nikhanal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhanal&show_icons=true&count_private=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhanal&layout=normal&theme=github_dark)
 
